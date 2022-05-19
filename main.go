@@ -12,7 +12,7 @@ func main() {
 	// EXERCICIO 3
 	// var 1nome string -> Precisa começar com letra
 	// var sobrenome string -> Certo
-	// var int idade -> Certo
+	// var int idade -> O tipo de dados vem após o nome da variável
 	// 1sobrenome := 6 -> Precisa começar com letra
 	// var licenca_para_dirigir = true -> Deveria usar o camelCase
 	// var estatura da pessoa int -> Utilizar espaços não é permitido
